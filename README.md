@@ -2,7 +2,7 @@
 #### Mi nombre es Leonardo Sebastian 🙋‍♂️
 #### Aqui podras ver mis proyectos y colaboraciones.💼
 
-- 💻Soy un desarrollador de software full stack, en constante crecimiento a travéz de formación académica y autodidacta.
+- 💻Soy desarrollador de software full stack, en constante crecimiento a travéz de formación académica y autodidacta.
 - 👨‍💻 Actualmente estoy cursando la carrera **Análisis, Desarrollo y Programación de aplicaciones** y recientemente finalice el Bootcamp **Full Stack en Javascript**.
 
 ## Tengo conocimiento en:
