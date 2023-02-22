@@ -1,5 +1,5 @@
 ### Hola a todos👋 Espero que se ecuentren bien 😃
-#### Mi nombre es Leonardo Sebastian🙋‍♂️
+#### Mi nombre es Leonardo Sebastian 🙋‍♂️
 #### Aqui podras ver mis proyectos y colaboraciones.💼
 
 - 💻Soy un desarrollador de software full stack, en constante crecimiento a travéz de formación académica y autodidacta.
