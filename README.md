@@ -1,4 +1,4 @@
-### Hola a todos👋 Espero que se encuentren bien 😃
+### Hola gente!👋 
 #### Mi nombre es Leonardo Sebastian 🙋‍♂️ Aqui podras ver mis proyectos y colaboraciones.💼
 
 - 💻Soy desarrollador de software full stack a travez de formación académica y autodidacta.
