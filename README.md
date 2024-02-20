@@ -1,8 +1,8 @@
 ### Hola!👋 
 #### Mi nombre es Leonardo Sebastian 🙋‍♂️ Aqui podras ver mis proyectos y colaboraciones.💼
 
-- 💻Soy desarrollador de software full stack a travez de formación académica y autodidacta.
-- 👨‍💻 Actualmente estoy cursando la carrera **Análisis, Desarrollo y Programación de aplicaciones** y recientemente finalice el Bootcamp **Full Stack en Javascript**.
+- 💻 Soy desarrollador Web & Mobile especializado en el Lenguaje de JAVASCRIPT, principalmente en tecnologia React.js para desarrollo WEB y React Native para desarrollo MOBILE.
+- 👨‍💻 Actualmente estoy cursando la carrera ** Tecnicatura Superior en Análisis, Desarrollo y Programación de aplicaciones**.
 
 ## Tengo conocimiento en:
 
@@ -29,19 +29,6 @@
 Correo: leosebastiang19@gmail.com
 
 Linkedin: [Leonardo Sebastian Gauto](https://www.linkedin.com/in/leonardo-sebastian-gauto-30a185216/)
+PORTFOLIO: [Leonardo Sebastian Gauto](https://leosebastian-portfolio.netlify.app/)
 
 
-<!--
-**LeoSebastian23/LeoSebastian23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
