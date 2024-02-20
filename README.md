@@ -27,8 +27,9 @@
 ## 📫 Contacto:
 
 Correo: leosebastiang19@gmail.com
-
-Linkedin: [Leonardo Sebastian Gauto](https://www.linkedin.com/in/leonardo-sebastian-gauto-30a185216/)
+<br>
 PORTFOLIO: [Leonardo Sebastian Gauto](https://leosebastian-portfolio.netlify.app/)
+<br>
+Linkedin: [Leonardo Sebastian Gauto](https://www.linkedin.com/in/leonardo-sebastian-gauto-30a185216/)
 
 
