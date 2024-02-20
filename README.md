@@ -28,7 +28,7 @@
 
 Correo: leosebastiang19@gmail.com
 <br>
-PORTFOLIO: [Leonardo Sebastian Gauto](https://leosebastian-portfolio.netlify.app/)
+PORTFOLIO: https://leosebastian-portfolio.netlify.app/ (https://leosebastian-portfolio.netlify.app/)
 <br>
 Linkedin: [Leonardo Sebastian Gauto](https://www.linkedin.com/in/leonardo-sebastian-gauto-30a185216/)
 
