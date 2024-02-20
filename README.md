@@ -2,7 +2,7 @@
 #### Mi nombre es Leonardo Sebastian 🙋‍♂️ Aqui podras ver mis proyectos y colaboraciones.💼
 
 - 💻 Soy desarrollador Web & Mobile especializado en el Lenguaje JAVASCRIPT.
-- 👨‍💻 Actualmente estoy cursando la carrera ** Tecnicatura Superior en Análisis, Desarrollo y Programación de aplicaciones**.
+- 👨‍💻 Actualmente estoy cursando la carrera *Tecnicatura Superior en Análisis, Desarrollo y Programación de aplicaciones*.
 
 ## Tengo conocimiento en:
 
