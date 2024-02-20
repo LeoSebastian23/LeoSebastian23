@@ -1,7 +1,7 @@
 ### Hola!👋 
 #### Mi nombre es Leonardo Sebastian 🙋‍♂️ Aqui podras ver mis proyectos y colaboraciones.💼
 
-- 💻 Soy desarrollador Web & Mobile especializado en el Lenguaje de JAVASCRIPT, principalmente en tecnologia React.js para desarrollo WEB y React Native para desarrollo MOBILE.
+- 💻 Soy desarrollador Web & Mobile especializado en el Lenguaje JAVASCRIPT.
 - 👨‍💻 Actualmente estoy cursando la carrera ** Tecnicatura Superior en Análisis, Desarrollo y Programación de aplicaciones**.
 
 ## Tengo conocimiento en:
