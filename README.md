@@ -3,7 +3,7 @@
 
 - 👨‍💻 Soy estudiante avanzado en *Tecnicatura Superior en Análisis, Desarrollo y Programación de aplicaciones* y me especializo en el desarrollo Full Stack, utilizando
 frameworks de JavaScript para crear interfaces interactivas y dinámicas, y construyendo backends solidos y
-escalables que soporten aplicaciones de alto rendimiento.
+escalables que soporten aplicaciones de calidad.
 - Trabajo con compromiso y dedicación para aportar valor en cada proyecto.
 
 ###
