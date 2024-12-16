@@ -1,9 +1,12 @@
 ## Hola!👋 
 #### Mi nombre es Leonardo Sebastian 🙋‍♂️ Aqui podras ver mis proyectos y colaboraciones.💼
 
-- 👨‍💻 Actualmente estoy cursando la carrera *Tecnicatura Superior en Análisis, Desarrollo y Programación de aplicaciones*.
+- 👨‍💻 Soy estudiante avanzado en *Tecnicatura Superior en Análisis, Desarrollo y Programación de aplicaciones* y me especializo en el desarrollo Full Stack, utilizando
+frameworks de JavaScript para crear interfaces interactivas y dinámicas, y construyendo backends solidos y
+escalables que soporten aplicaciones de alto rendimiento.
+- Trabajo con compromiso y dedicación para aportar valor en cada proyecto.
 
-## Tengo conocimiento en:
+###
 
 ### - Tecnologías Frontend
 <img align="left" title="NextsJs" alt="NextsJs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
