@@ -1,4 +1,4 @@
-### Hola!👋 
+## Hola!👋 
 #### Mi nombre es Leonardo Sebastian 🙋‍♂️ Aqui podras ver mis proyectos y colaboraciones.💼
 
 - 👨‍💻 Actualmente estoy cursando la carrera *Tecnicatura Superior en Análisis, Desarrollo y Programación de aplicaciones*.
