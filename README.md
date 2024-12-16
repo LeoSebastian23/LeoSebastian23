@@ -5,7 +5,7 @@
 
 ## Tengo conocimiento en:
 
-# - Tecnologías Frontend
+## - Tecnologías Frontend
 <img align="left" title="NextsJs" alt="NextsJs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" title="ReactJs" alt="ReactJs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align="left" title="TypeScript" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -19,7 +19,7 @@
 <br>
 <br>
 
-# - Tecnologías Backend
+## - Tecnologías Backend
 <img align="left" title="NodeJs" alt="Nodejs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" title="MySQL" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" title="Java" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
